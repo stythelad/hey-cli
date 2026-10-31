@@ -34,7 +34,7 @@ ollama pull llama3.2
 pip install requests
 
 # 3. Clone and install
-git clone https://github.com/pokhrelmishan/hey-cli.git
+https://github.com/stythelad/hey-cli.git
 cd hey-cli
 sudo cp hey.py /usr/local/bin/hey
 
