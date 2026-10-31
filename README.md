@@ -51,4 +51,4 @@ hey "your query here"
 
 ## Author
 
-Built by [@pokhrelmishan](https://github.com/pokhrelmishan)
+Built by [@stythelad](https://github.com/stythelad)
